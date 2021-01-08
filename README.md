@@ -1,4 +1,4 @@
-![alt text](https://github.com/zisispa/movie-library-laravel/blob/master/blogsystem-font.PNG?raw=true)
+![alt text](https://github.com/zisispa/blogsystem/blob/master/blogsystem-font.PNG?raw=true)
 
 ## About this Project
 
