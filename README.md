@@ -1,3 +1,5 @@
+![alt text](https://github.com/zisispa/movie-library-laravel/blob/master/blogsystem-font.PNG?raw=true)
+
 ## About this Project
 
 This is a Blog System implemented with Laravel.In this project can manage many points of a blog. More specifically it can manage users, posts, categories and tags.
